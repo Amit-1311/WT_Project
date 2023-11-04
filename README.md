@@ -1,4 +1,4 @@
-# Motor Hub Store Website
+# MotorHub Store Website
 
 ## Overview
 
